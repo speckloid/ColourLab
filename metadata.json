@@ -1,0 +1,6 @@
+{
+  "name": "Color Lab",
+  "description": "Interactive simulation of additive color mixing, stage light reflection, visible spectrum analysis, and color perception flag puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
